@@ -48,7 +48,8 @@
 //    UIAlertView *alter=[[UIAlertView alloc]initWithTitle:@"提示" message:@"网络断开，请检查网络设置" delegate:self cancelButtonTitle:@"取消" otherButtonTitles:@"去设置", nil];
 //    [alter show];
 //}
-//
+
+
 //#pragma mark---alertView点击事件
 //+ (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex {
 //    if (buttonIndex==0) {
